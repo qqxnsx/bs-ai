@@ -19,18 +19,18 @@ By leveraging **advanced AI models**, it helps medical professionals **identify 
 ## Installation  
 
 ### Clone the repository  
-```sh
+
 git clone https://github.com/qqxnsx/bs-ai.git
 
-Navigate to the project directory
+### Navigate to the project directory
 
 cd bs-ai
 
-Install required dependencies
+### Install required dependencies
 
 pip install -r requirements.txt
 
-Project Structure
+### Project Structure
 
 bs-ai/  
 ├── data/         # Dataset directory  
@@ -39,14 +39,8 @@ bs-ai/
 ├── tests/        # Unit tests (COMING SOON)  
 └── notebooks/    # Jupyter notebooks for analysis (COMING SOON)  
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-### **How to Use:**
-1. Copy this entire content.
-2. Open your repository in GitHub or your local IDE.
-3. Replace the existing `README.md` content with this.
-4. Save, commit, and push the updated file.
 
-Now your **README.md** will have **clean formatting, proper Markdown structure, and match the professional style you want**. 🚀 Let me know if you need any changes!
