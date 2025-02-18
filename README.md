@@ -19,25 +19,28 @@ By leveraging **advanced AI models**, it helps medical professionals **identify 
 ## Installation  
 
 ### Clone the repository  
-
+```sh
 git clone https://github.com/qqxnsx/bs-ai.git
-
+```
 ### Navigate to the project directory
-
+```sh
 cd bs-ai
-
+```
 ### Install required dependencies
-
+```sh
 pip install -r requirements.txt
-
+```
 ### Project Structure
 
+```sh
 bs-ai/  
 ├── data/         # Dataset directory  
 ├── models/       # Trained models  
 ├── src/          # Source code  
 ├── tests/        # Unit tests (COMING SOON)  
 └── notebooks/    # Jupyter notebooks for analysis (COMING SOON)  
+```
+
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
