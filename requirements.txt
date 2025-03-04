@@ -21,4 +21,4 @@ jupyter>=1.0.0
 notebook>=6.4.0
 
 # Optional: GPU Support (uncomment if you have a GPU compatible CUDA)
-# tensorflow-gpu>=2.10.0 
+# tensorflow-gpu>=2.10.1
